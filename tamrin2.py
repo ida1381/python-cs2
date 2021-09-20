@@ -1,0 +1,6 @@
+name=input("name:")
+age=input("age:")
+height=input("height:")
+weight=input("weight:")
+#print("name:" , name , "\nage:" , age , "\nheight:" , height , "\nweight" , weight )
+print("name:" , name , "\tage:" , age , "\theight:" , height , "\tweight:" , weight )
